@@ -1,0 +1,14 @@
+C:/workspace/cpp/lab_1cmake/build/CMakeFiles/hellobinary.dir
+C:/workspace/cpp/lab_1cmake/build/CMakeFiles/edit_cache.dir
+C:/workspace/cpp/lab_1cmake/build/CMakeFiles/rebuild_cache.dir
+C:/workspace/cpp/lab_1cmake/build/CMakeFiles/list_install_components.dir
+C:/workspace/cpp/lab_1cmake/build/CMakeFiles/install.dir
+C:/workspace/cpp/lab_1cmake/build/CMakeFiles/install/local.dir
+C:/workspace/cpp/lab_1cmake/build/CMakeFiles/install/strip.dir
+C:/workspace/cpp/lab_1cmake/build/lib/CMakeFiles/wifi_lib.dir
+C:/workspace/cpp/lab_1cmake/build/lib/CMakeFiles/edit_cache.dir
+C:/workspace/cpp/lab_1cmake/build/lib/CMakeFiles/rebuild_cache.dir
+C:/workspace/cpp/lab_1cmake/build/lib/CMakeFiles/list_install_components.dir
+C:/workspace/cpp/lab_1cmake/build/lib/CMakeFiles/install.dir
+C:/workspace/cpp/lab_1cmake/build/lib/CMakeFiles/install/local.dir
+C:/workspace/cpp/lab_1cmake/build/lib/CMakeFiles/install/strip.dir

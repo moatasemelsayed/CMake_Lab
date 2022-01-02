@@ -1,0 +1,4 @@
+#define ProductType "BMW"
+
+#define PRODUCT_YEAR "${PRODUCT_YEAR}"
+#define DEBUGINFO "${DEBUGINFO}"

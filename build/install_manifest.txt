@@ -1,0 +1,3 @@
+C:/workspace/cpp/lab_1cmake/build/executable/hellobinary.exe
+C:/workspace/cpp/lab_1cmake/build/include/Wifi.hpp
+C:/workspace/cpp/lab_1cmake/build/include/calc.hpp
