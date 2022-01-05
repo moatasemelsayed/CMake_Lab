@@ -1,0 +1,5 @@
+C:/workspace/avrkit/ledblink/build/CMakeFiles/LEDBLink.elf.dir
+C:/workspace/avrkit/ledblink/build/CMakeFiles/flash.dir
+C:/workspace/avrkit/ledblink/build/CMakeFiles/burn.dir
+C:/workspace/avrkit/ledblink/build/CMakeFiles/edit_cache.dir
+C:/workspace/avrkit/ledblink/build/CMakeFiles/rebuild_cache.dir
